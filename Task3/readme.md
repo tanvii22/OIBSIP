@@ -2,9 +2,13 @@
 
 Data Analytics Internship – Oasis Infobyte
 
+----
+
 **Objective**
 
 The objective of this task is to analyze the Google Play Store dataset to understand app market dynamics. The goal is to clean and prepare the data, explore category-level trends, calculate key app metrics, analyze user sentiment, and create visualizations that highlight patterns in the Android app ecosystem.
+
+----
 
 **Datasets Used**
 1. apps.csv
@@ -15,9 +19,13 @@ Contains app details such as category, rating, reviews, size, installs, price, a
 
 Contains translated user reviews along with sentiment, polarity, and subjectivity.
 
+----
+
 **Tools & Technologies Used**
 
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, VS Code
+
+----
 
 **Steps Performed**
 1. Data Loading
@@ -46,6 +54,8 @@ Examined user sentiments (Positive, Negative, Neutral) and calculated average po
 
 Created bar charts, scatter plots, and distribution plots to visually represent category trends, install patterns, pricing, and sentiment.
 
+----
+
 **Key Insights**
 
 Most apps are free, lightweight, and have strong ratings.
@@ -58,11 +68,15 @@ App popularity varies widely, with only a small group achieving massive download
 
 Games are popular but tend to be larger in size.
 
+----
+
 **Project Files**
 
 Task3_Android_App_Analysis.ipynb – Notebook with complete analysis
 
 readme.md – Documentation (this file)
+
+----
 
 **Outcome**
 
